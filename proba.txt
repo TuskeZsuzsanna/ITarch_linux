@@ -1,2 +1,6 @@
 Hello World
+<<<<<<< HEAD
 ez a Dev ág 
+=======
+ez a Test ág
+>>>>>>> Test
